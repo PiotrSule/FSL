@@ -1,1 +1,1 @@
-# FSL
+# Flexible Skew Logistic distribution
